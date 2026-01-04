@@ -1,12 +1,3 @@
-/*Buat sebuah program yang menerima 5 angka sebagai input.
-Program kemudian menentukan dan menampilkan angka terbesar dan angka terkecil.
-
-contoh input :
-4 10 3 8 6
-
-output :
-Angka terbesar: 10
-Angka terkecil: 3*/
 import java.util.Scanner;
 public class no3 {
     public static void main(String[] args) {
