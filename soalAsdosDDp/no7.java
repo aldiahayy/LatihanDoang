@@ -1,29 +1,3 @@
-/*Dekalarasi array dengan 8 tipe data yang berbeda dengan panjang array 5 kemudian inisialisasi semua array tersebut lalu tampilkan hasilnya!
-Contoh output:
-
-Array byte :
-10 20 30 40 50 
-
-Array short :
-1000 2000 3000 4000 5000 
-
-Array int :
-1 2 3 4 5 
-
-Array long :
-10000 20000 30000 40000 50000 
-
-Array float :
-1.1 2.2 3.3 4.4 5.5 
-
-Array double :
-10.5 20.5 30.5 40.5 50.5 
-
-Array char :
-L U L U S 
-
-Array String :
-Semoga lulus mata kuliah DDP*/
 public class no7 {
     public static void main(String[] args) {
         byte a [] = {10,20,30,40,50};
