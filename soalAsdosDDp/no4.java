@@ -1,7 +1,3 @@
-/*Ali memiliki deretan angka di dalam array, yaitu
-[23, 67, 23, 56,232, 876, 1], 
-dia ingin mencari nilai terbesar dalam deretan angka tersebut. Bantulah Ali mencari nilai terbesar yang ada dalam array tersebut.
-*/
 import java.util.Scanner;
 public class no4 {
     public static void main(String[] args) {
