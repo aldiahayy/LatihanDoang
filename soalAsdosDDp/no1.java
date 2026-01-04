@@ -1,9 +1,3 @@
-/*Buatlah program Java yang dapat menyimpan nilai beberapa mahasiswa ke dalam array, kemudian menghitung dan menampilkan rata-rata nilainya.
-
-Petunjuk:
-        •        Gunakan Scanner untuk input jumlah mahasiswa dan nilai mereka.
-        •        Simpan semua nilai dalam array.
-        •        Gunakan perulangan untuk menghitung total dan rata-rata.*/
 import java.util.Scanner;
 public class no1 {
     public static void main(String[] args) {
