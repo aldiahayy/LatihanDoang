@@ -1,19 +1,3 @@
-/*buat sebuah program untuk menampung nilai array sebanyak 10 dari pengguna kemudian tampilkan hanya angka genap di atas 50.
-contoh input:
-10
-20
-30
-40
-50
-51
-52
-53
-54
-55
-
-output:
-52
-54*/
 import java.util.Scanner;
 public class no2 {
     public static void main(String[] args) {
