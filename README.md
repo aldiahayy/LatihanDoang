@@ -1,1 +1,1 @@
-#Latihan Doang!
+#Latihan Doang
