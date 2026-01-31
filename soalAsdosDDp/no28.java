@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class no29 {
+public class no28 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Masukan total buku yang dipinjam: ");
