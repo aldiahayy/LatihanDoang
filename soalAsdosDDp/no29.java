@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class no30 {
+public class no29 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Masukan nilai teori: ");
