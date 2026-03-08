@@ -11,5 +11,5 @@ public class no01 {
             total+=nilai[i];
         }
         System.out.println("Rata-rata: " +((double)total/nilai.length));
-    
+    }
 }
