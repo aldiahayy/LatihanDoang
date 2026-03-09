@@ -1,4 +1,4 @@
-public class no5 {
+public class no05 {
     public static void main(String[] args) {
         String nama [] = {"rifky", "rajab", "daud","rendi","hanif"};
         for (String baru : nama) {
