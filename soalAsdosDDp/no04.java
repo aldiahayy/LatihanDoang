@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class no4 {
+public class no04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int angka[] = {23,67,23,56,232,876,1};
