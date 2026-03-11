@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class no9 {
+public class no09 {
     public static void main(String[] args) {
         System.out.println(hitungLuas(0,0));
     }
