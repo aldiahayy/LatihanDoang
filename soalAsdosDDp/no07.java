@@ -1,4 +1,4 @@
-public class no7 {
+public class no07 {
     public static void main(String[] args) {
         byte a [] = {10,20,30,40,50};
         short b [] = {1000,2000,3000,4000,5000};
