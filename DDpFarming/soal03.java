@@ -17,3 +17,4 @@ public class soal03 {
         }
         System.out.println("Total harga  : " + total);
     }
+}
