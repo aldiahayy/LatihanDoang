@@ -1,6 +1,6 @@
 package LatihanISC;
 import java.util.Scanner;
-public class bagian12 {
+public class soal13 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int [] angka = new int[5];
