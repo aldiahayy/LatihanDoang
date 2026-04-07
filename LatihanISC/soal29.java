@@ -1,6 +1,6 @@
 package LatihanISC;
 import java.util.Scanner;
-public class soal29 ={
+public class soal29 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
